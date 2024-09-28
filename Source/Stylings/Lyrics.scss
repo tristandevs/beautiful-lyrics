@@ -297,7 +297,7 @@
 			rgba(var(--gradient-color),
 				var(--gradient-color),
 				var(--gradient-color),
-				var(--gradient-color-alpha)) calc(var(--gradient-progress) + 100% + var(--gradient-offset)));
+				var(--gradient-color-alpha)) calc(var(--gradient-progress) + 20% + var(--gradient-offset)));
 	text-shadow: 0 0 var(--text-shadow-blur-radius) rgba(255, 255, 255, var(--text-shadow-opacity));
 }
 
