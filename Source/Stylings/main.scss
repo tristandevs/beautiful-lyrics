@@ -116,7 +116,7 @@ body:has(.SliderBar.Active) {
 
 	// These are right-side card background specific classes to adjust for contrast issues
 	&:is(aside) &-Container {
-		filter: saturate(2) brightness(0.7); // Blur-related
+		filter: saturate(2) brightness(0.1); // Blur-related
 	}
 
 	/*
